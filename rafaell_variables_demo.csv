@@ -1,0 +1,178 @@
+id,nombre,tipo,costo
+dolor_de_garganta,Dolor de garganta,síntoma,10.0
+eritema,Eritema,signo,5.0
+edema,Edema,signo,5.0
+exudados,Exudados,signo,5.0
+fiebre,Fiebre,signo,5.0
+linfadenopatía_cervical,Linfadenopatía cervical,signo,5.0
+ausencia_de_tos,Ausencia de tos,síntoma,10.0
+petequias_palatales,Petequias palatales,signo,5.0
+lengua_de_fresa,Lengua de fresa,signo,5.0
+rash_escarlatiniforme,Rash escarlatiniforme,signo,5.0
+edema_de_úvula,Edema de úvula,signo,5.0
+cefalea,Cefalea,síntoma,10.0
+dolor_abdominal,Dolor abdominal,síntoma,10.0
+vómitos,Vómitos,signo,5.0
+eritema_faríngeo,Eritema faríngeo,signo,5.0
+enantemas,Enantemas,signo,5.0
+tos,Tos,signo,5.0
+coriza_(rinorrea),Coriza (Rinorrea),signo,5.0
+ronquera,Ronquera,signo,5.0
+conjuntivitis,Conjuntivitis,signo,5.0
+diarrea,Diarrea,síntoma,10.0
+vómitos,Vómitos,síntoma,10.0
+malaise_(malestar),Malaise (Malestar),síntoma,10.0
+linfadenopatía,Linfadenopatía,signo,5.0
+estomatitis_anterior,Estomatitis anterior,signo,5.0
+exudado_amigdalino,Exudado amigdalino,signo,5.0
+hipertrofia_amigdalina,Hipertrofia amigdalina,signo,5.0
+adenopatía_cervical_anterior,Adenopatía cervical anterior,signo,5.0
+odinofagia,Odinofagia,síntoma,10.0
+disfagia,Disfagia,síntoma,10.0
+ausencia_de_tos,Ausencia de tos,signo,5.0
+exantema_escarlatiniforme,Exantema escarlatiniforme,signo,5.0
+dolor_abdominal_/_náuseas,Dolor abdominal / Náuseas,síntoma,10.0
+faringodinia,Faringodinia,síntoma,10.0
+eritema_amigdalino,Eritema amigdalino,signo,5.0
+edema_tisular,Edema tisular,signo,5.0
+coriza,Coriza,signo,5.0
+ronquera_/_disfonía,Ronquera / Disfonía,síntoma,10.0
+conjunctivitis,Conjunctivitis,signo,5.0
+vesículas_o_úlceras,Vesículas o Úlceras,signo,5.0
+estridor_inspiratorio,Estridor inspiratorio,signo,5.0
+tos_perruna,Tos perruna,signo,5.0
+ronquera_(disfonía),Ronquera (Disfonía),signo,5.0
+rinorrea,Rinorrea,síntoma,10.0
+retracciones_costales,Retracciones costales,signo,5.0
+taquipnea,Taquipnea,signo,5.0
+congestión,Congestión,síntoma,10.0
+cianosis,Cianosis,signo,5.0
+nivel_de_conciencia_disminuido,Nivel de conciencia disminuido,signo,5.0
+sibilancias_y_estertores,Sibilancias y estertores,signo,5.0
+fiebre,Fiebre,signo / síntoma,10.0
+"disfonía_(""voz_de_patata_caliente"")","Disfonía (""Voz de patata caliente"")",signo,5.0
+posición_de_trípode,Posición de trípode,signo,5.0
+sialorrea_(babeo),Sialorrea (Babeo),signo,5.0
+taquicardia,Taquicardia,signo,5.0
+estridor,Estridor,signo,5.0
+"epiglotis_""rojo_cereza""","Epiglotis ""rojo cereza""",signo,5.0
+ansiedad,Ansiedad,síntoma,10.0
+otalgia,Otalgia,síntoma,10.0
+aliento_fétido,Aliento fétido,signo,5.0
+hinchazón_facial,Hinchazón facial,signo,5.0
+trismus,Trismus,signo,5.0
+"voz_de_""patata_caliente""","Voz de ""patata caliente""",signo,5.0
+adenopatía_cervical,Adenopatía cervical,signo,5.0
+desviación_de_la_úvula,Desviación de la úvula,signo,5.0
+desplazamiento_amigdalino,Desplazamiento amigdalino,signo,5.0
+irritabilidad,Irritabilidad,síntoma,10.0
+disfonía,Disfonía,signo,5.0
+rigidez_nucal,Rigidez nucal,signo,5.0
+limitación_del_rango_de_movimiento,Limitación del rango de movimiento,signo,5.0
+abombamiento_de_la_pared_faríngea,Abombamiento de la pared faríngea,signo,5.0
+fluctuación,Fluctuación,signo,5.0
+fiebre_alta,Fiebre alta,signo / síntoma,10.0
+tos_productiva_y_dolorosa,Tos productiva y dolorosa,signo / síntoma,10.0
+secreciones_mucopurulentas,Secreciones mucopurulentas,signo,5.0
+aspecto_tóxico,Aspecto tóxico,signo,5.0
+ronquera,Ronquera,síntoma,10.0
+dolor_traqueal,Dolor traqueal,síntoma,10.0
+retracciones_musculares,Retracciones musculares,signo,5.0
+pseudomembranas,Pseudomembranas,signo,5.0
+faringitis_tonsilar,Faringitis tonsilar,síntoma,10.0
+fatiga,Fatiga,síntoma,10.0
+exudados_amigdalinos,Exudados amigdalinos,signo,5.0
+esplenomegalia,Esplenomegalia,signo,5.0
+hepatomegalia,Hepatomegalia,signo,5.0
+exantema_(rash),Exantema (Rash),signo,5.0
+malestar_general,Malestar general,síntoma,10.0
+faringitis_/_amigdalitis,Faringitis / Amigdalitis,síntoma,10.0
+hinchazón_del_cuello,Hinchazón del cuello,signo,5.0
+septicemia,Septicemia,signo,5.0
+émbolos_sépticos,Émbolos sépticos,signo,5.0
+trombosis_de_la_vena_yugular_interna,Trombosis de la vena yugular interna,signo,5.0
+pirosis_(heartburn),Pirosis (Heartburn),síntoma,10.0
+sabor_agrio,Sabor agrio,síntoma,10.0
+regurgitación,Regurgitación,síntoma,10.0
+tos_crónica,Tos crónica,síntoma,10.0
+broncoespasmo,Broncoespasmo,signo,5.0
+dolor_torácico,Dolor torácico,síntoma,10.0
+laringitis,Laringitis,signo / síntoma,10.0
+saciedad_temprana,Saciedad temprana,síntoma,10.0
+plenitud_abdominal,Plenitud abdominal,síntoma,10.0
+distensión_(bloating),Distensión (Bloating),síntoma,10.0
+eructos_(belching),Eructos (Belching),signo / síntoma,10.0
+erosiones_dentales,Erosiones dentales,signo,5.0
+esofagitis_(grados_a-d),Esofagitis (Grados A-D),signo,5.0
+estornudos,Estornudos,signo / síntoma,10.0
+rinorrea,Rinorrea,signo / síntoma,10.0
+prurito_nasal,Prurito nasal,síntoma,10.0
+congestión_nasal,Congestión nasal,signo / síntoma,10.0
+prurito_ocular,Prurito ocular,síntoma,10.0
+mucosa_pálida_o_violácea,Mucosa pálida o violácea,signo,5.0
+pólipos_nasales,Pólipos nasales,signo,5.0
+inyección_conjuntival,Inyección conjuntival,signo,5.0
+hiposmia,Hiposmia,síntoma,10.0
+fatiga_e_irritabilidad,Fatiga e irritabilidad,síntoma,10.0
+obstrucción_nasal,Obstrucción nasal,signo / síntoma,10.0
+rinorrea_purulenta,Rinorrea purulenta,signo,5.0
+dolor_/_presión_facial,Dolor / Presión facial,síntoma,10.0
+hiposmia_/_anosmia,Hiposmia / Anosmia,síntoma,10.0
+dolor_dental,Dolor dental,síntoma,10.0
+tos,Tos,signo / síntoma,10.0
+sensibilidad_sinusal,Sensibilidad sinusal,signo,5.0
+descarga_posnasal,Descarga posnasal,signo,5.0
+halitosis,Halitosis,signo,5.0
+plenitud_ótica,Plenitud ótica,síntoma,10.0
+drenaje_en_meato_medio,Drenaje en meato medio,signo,5.0
+fiebre_prolongada,Fiebre prolongada,signo / síntoma,10.0
+eritema_de_labios,Eritema de labios,signo,5.0
+exantema_polimorfo,Exantema polimorfo,signo,5.0
+eritema_palmo-plantar,Eritema palmo-plantar,signo,5.0
+edema_de_extremidades,Edema de extremidades,signo,5.0
+descamación_periungueal,Descamación periungueal,signo,5.0
+líneas_de_beau,Líneas de Beau,signo,5.0
+artralgia_/_artritis,Artralgia / Artritis,signo / síntoma,10.0
+tos,Tos,síntoma,10.0
+máculas_rojo-púrpura,Máculas rojo-púrpura,signo,5.0
+ampollas_(bullas),Ampollas (Bullas),signo,5.0
+signo_de_nikolsky,Signo de Nikolsky,signo,5.0
+estomatitis_ulcerosa,Estomatitis ulcerosa,signo,5.0
+lesiones_en_diana_atípicas,Lesiones en diana atípicas,signo,5.0
+ulceración_corneal,Ulceración corneal,signo,5.0
+dolor_oral,Dolor oral,síntoma,10.0
+deshidratación,Deshidratación,signo,5.0
+esputo_mucopurulento,Esputo mucopurulento,signo,5.0
+dolor_bucal_agudo,Dolor bucal agudo,síntoma,10.0
+escozor_prodrómico,Escozor prodrómico,síntoma,10.0
+ulceración_redondeada,Ulceración redondeada,signo,5.0
+fondo_de_fibrina,Fondo de fibrina,signo,5.0
+halo_eritematoso,Halo eritematoso,signo,5.0
+aftas_menores_(<1_cm),Aftas menores (<1 cm),signo,5.0
+aftas_mayores_(>1_cm),Aftas mayores (>1 cm),signo,5.0
+úlceras_herpetiformes,Úlceras herpetiformes,signo,5.0
+ulceración_genital,Ulceración genital,signo,5.0
+adenopatía_submandibular,Adenopatía submandibular,signo,5.0
+sialorrea,Sialorrea,signo,5.0
+edema_no_foveolar,Edema no foveolar,signo,5.0
+urticaria,Urticaria,signo,5.0
+prurito,Prurito,síntoma,10.0
+ardor_/_dolor_local,Ardor / Dolor local,síntoma,10.0
+disfonía,Disfonía,signo / síntoma,10.0
+macroglosia,Macroglosia,signo,5.0
+náuseas_/_vómitos,Náuseas / Vómitos,síntoma,10.0
+disnea,Disnea,signo / síntoma,10.0
+abombamiento_timpánico,Abombamiento timpánico,signo,5.0
+otorrea,Otorrea,signo,5.0
+eritema_timpánico,Eritema timpánico,signo,5.0
+movilidad_reducida,Movilidad reducida,signo,5.0
+hipoacusia,Hipoacusia,síntoma,10.0
+opacidad_timpánica,Opacidad timpánica,signo,5.0
+tos_súbita,Tos súbita,signo / síntoma,10.0
+asfixia_(choking),Asfixia (Choking),signo / síntoma,10.0
+disnea,Disnea,síntoma,10.0
+sibilancias_(whizzing),Sibilancias (Whizzing),signo,5.0
+ronquera_/_disfonía,Ronquera / Disfonía,signo / síntoma,10.0
+arcadas_(gagging),Arcadas (Gagging),signo,5.0
+disminución_de_ruidos_respiratorios,Disminución de ruidos respiratorios,signo,5.0
+paro_respiratorio,Paro respiratorio,signo,5.0

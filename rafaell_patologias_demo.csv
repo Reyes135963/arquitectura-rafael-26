@@ -1,0 +1,21 @@
+id,nombre,sistema_principal,prior_inc,prior_prev,w_priors
+faringitis_estreptocócica,Faringitis Estreptocócica,Respiratorio,0.05,0.08,0.3
+faringitis_aguda,Faringitis Aguda,Respiratorio,0.05,0.08,0.3
+amigdalitis_estreptocócica,Amigdalitis Estreptocócica,Respiratorio,0.05,0.08,0.3
+amigdalitis_aguda,Amigdalitis Aguda,Respiratorio,0.05,0.08,0.3
+crup_(laringotraqueítis),Crup (Laringotraqueítis),Respiratorio,0.05,0.08,0.3
+epiglotitis,Epiglotitis,Respiratorio,0.05,0.08,0.3
+absceso_periamigdalino,Absceso Periamigdalino,Respiratorio,0.05,0.08,0.3
+absceso_retrofaríngeo,Absceso Retrofaríngeo,Respiratorio,0.05,0.08,0.3
+traqueítis_bacteriana,Traqueítis Bacteriana,Respiratorio,0.05,0.08,0.3
+mononucleosis_infecciosa,Mononucleosis Infecciosa,Respiratorio,0.05,0.08,0.3
+síndrome_de_lemierre,Síndrome de Lemierre,Respiratorio,0.05,0.08,0.3
+erge,ERGE,Respiratorio,0.05,0.08,0.3
+rinitis_alérgica,Rinitis Alérgica,Respiratorio,0.05,0.08,0.3
+sinusitis_(rinosinusitis),Sinusitis (Rinosinusitis),Respiratorio,0.05,0.08,0.3
+enfermedad_de_kawasaki,Enfermedad de Kawasaki,Respiratorio,0.05,0.08,0.3
+síndrome_de_stevens-johnson,Síndrome de Stevens-Johnson,Respiratorio,0.05,0.08,0.3
+estomatitis_aftosa,Estomatitis Aftosa,Respiratorio,0.05,0.08,0.3
+angioedema,Angioedema,Respiratorio,0.05,0.08,0.3
+otitis_media,Otitis Media,Respiratorio,0.05,0.08,0.3
+aspiración_de_cuerpo_extraño,Aspiración de Cuerpo Extraño,Respiratorio,0.05,0.08,0.3
